@@ -7,3 +7,4 @@ Based on excellent [Alfred Workflow by Charles Ma](https://github.com/mpco/Alfre
 
 ### TODO
 - Add icons to search results
+- Add score sorting
